@@ -31,6 +31,6 @@ Highlight all Profits less than $50,000 with conditional Formatting
 
 Details:
 
-Download the Sample Data – Financial excel sheet from the self-titled file in this repo and save this to your OneDrive folder for this exercise. 
+Download the Sample Data – Financial excel sheet from the self-titled file in this repo by clicking "view raw" when in the file and save this to your OneDrive folder for this exercise. 
 Create a new sheet for each question and name it accordingly (Q1, Q2, etc.). You will show your work in each sheet. 
 
