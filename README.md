@@ -9,15 +9,25 @@ Scenario:
 You have been tasked by your team lead to pull some information from the department’s latest financial statement. The data has been downloaded from your company’s tracking system that is continuously updating. Your Team Lead needs this information for a report for the leadership team and requires the following information:
 
 Products Each Country has purchased from 2014
+
 Total Sales by Product for 2013 and 2014
+
 Total Profit by Country for 2013 and 2014
+
 Total Gross Sales vs Profits for 2013
+
 Average number of units sold by Product for Each Country in 2013
+
 Total and Average Profit by Product for 2014
+
 Total Gross Sales Per Month for 2013 and 2014
+
 Average Manufacturing Price Per County for 2013 and 2014
+
 Highlight all Profits over $400,000 with conditional Formatting
+
 Highlight all Profits less than $50,000 with conditional Formatting
+
 
 Details:
 
